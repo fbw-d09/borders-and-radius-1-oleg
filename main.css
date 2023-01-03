@@ -1,0 +1,38 @@
+section {
+    border-bottom: 10px solid red;
+    border-top: 10px solid red;
+    border-left: 10px solid red;
+    border-right: 10px solid red;
+}
+
+#paragraph1 {
+    border-bottom: 10px solid greenyellow;
+}
+
+#paragraph2 {
+    border-bottom: 10px solid greenyellow;
+}
+
+#border__dotted {
+    border: dotted;
+}
+
+#border__inset {
+    border: inset;
+}
+
+#border__crimson {
+    color: crimson;
+}
+
+img {
+    border-radius: 40px;
+}
+
+div p {
+    border-bottom: solid red;
+}
+
+button {
+    border-radius: 5px;
+}
